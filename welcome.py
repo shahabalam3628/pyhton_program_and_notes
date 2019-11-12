@@ -1,1 +1,4 @@
-print("welcome in Python")
+print("Welcome")
+print("Hi")
+
+
